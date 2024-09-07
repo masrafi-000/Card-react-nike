@@ -1,0 +1,13 @@
+.card-box {
+  background: #fff;
+  height: auto;
+}
+.card-box img {
+  height: 310px;
+}
+.description {
+  padding: 10px 0 5px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}

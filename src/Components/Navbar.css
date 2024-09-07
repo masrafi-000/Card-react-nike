@@ -1,0 +1,33 @@
+nav {
+    max-width: 1280px;
+    height: 75px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+  }
+  .logo {
+    padding-top: 10px;
+    cursor: pointer;
+  }
+  .cart {
+    display: flex;
+    gap: 10px;
+  }
+  .cart img {
+    width: 25px;
+  }
+  ul {
+    display: flex;
+    gap: 30px;
+  }
+  ul li {
+    list-style: none;
+    text-transform: uppercase;
+    font-weight: 600;
+  }
+  ul li a {
+    color: #2e2e2e;
+    text-decoration: none;
+  }
+  
